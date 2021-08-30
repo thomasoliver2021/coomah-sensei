@@ -12,7 +12,7 @@ file_name = "./logs/log_" + timestr
 file = open(file_name, "w", encoding='utf-8')
 
 # Let's chat for 4 lines
-for step in range(4):
+for step in range(3):
     # encode the new user input, add the eos_token and return a tensor in Pytorch
     user_text = input(">> User: ")
     new_user_input_ids = tokenizer.encode(user_text + tokenizer.eos_token, return_tensors='pt')
