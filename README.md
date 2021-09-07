@@ -10,7 +10,9 @@ To train, head here!: [![Open In Colab](https://colab.research.google.com/assets
 For instructions on how to help train, please refer to this [video](https://youtu.be/bhYdADZPSbU)!
 
 Grammar クマー先生 understands can be found [here](https://quizlet.com/416773105/genki-lesson-1-grammar-flash-cards/?x=1jqt)
+
 Vocab クマー先生 understands can be found [here](https://quizlet.com/416614093/genki-lesson-0-vocabulary-flash-cards/) and [here](https://quizlet.com/416616385/genki-lesson-1-vocabulary-flash-cards/)
+
 No knowledge of any kanji is necessary at this time.
 
 Created logs can be sent to me via Discord if you have it, or emailed to coomahsensei@gmail.com
