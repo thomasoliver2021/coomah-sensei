@@ -17,4 +17,4 @@ No knowledge of any kanji is necessary at this time.
 
 Created logs can be sent to me via Discord if you have it, or emailed to coomahsensei@gmail.com
 
-ありがおうございます！
+ありがとうございます！
