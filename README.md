@@ -7,7 +7,7 @@ While training, please keep in mind that クマー先生 does not know all the v
 
 To train, head here!: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_K4HDzLz5Z9U1PukkHnjM_2FMtUJBSfy?usp=sharing)
 
-For instructions on how to help train, please refer to this [video](https://youtu.be/bhYdADZPSbU)!
+For instructions on how to help train, please refer to this [video](https://youtu.be/VctfQJMVI18)!
 
 Grammar クマー先生 understands can be found [here](https://quizlet.com/416773105/genki-lesson-1-grammar-flash-cards/?x=1jqt)
 
