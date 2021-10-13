@@ -15,7 +15,7 @@ print("Hello, welcome to the alpha version of クマー先生!")
 print("Enter \"q\" to stop chatting at any time.")
 
 count = 0
-for i in range(3):
+for i in range(4):
     # encode the new user input, add the eos_token and return a tensor in Pytorch
     user_text = input(">> User: ")
     if user_text == "q":
@@ -66,5 +66,3 @@ for i in range(3):
 
         final = torch.IntTensor(final)
         chat_history_ids = torch.unsqueeze(final, 0)
-
-        print(list(chat_history_ids))
